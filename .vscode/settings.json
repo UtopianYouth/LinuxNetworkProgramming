@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "pthread.h": "c",
+        "cstring": "c",
+        "socket.h": "c",
+        "poll.h": "c",
+        "unistd.h": "c",
+        "stdlib.h": "c",
+        "inet.h": "c",
+        "un.h": "c",
+        "types.h": "c",
+        "*.tcc": "cpp",
+        "fstream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
